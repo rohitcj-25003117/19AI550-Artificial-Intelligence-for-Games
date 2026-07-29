@@ -1,0 +1,33 @@
+# Ex.No: 1  Installation of Unity for Game Development
+### DATE: 29-07-2026                                                                           
+### REGISTER NUMBER : 212224243005
+### AIM: 
+To install Unity2022.3.57f1 or higher version for Game Development.
+### Procedure:
+1. Goto website https://unity.com/releases/editor/archive or https://unity.com/download  and choose the corresponding Unity Hub and download it.
+2. Create a personal login and choose the plan
+   
+  "C:\Users\CJ ROHIT\Downloads\1111111111111.png"
+   
+4. Open the unity Hub and choose install button.
+   
+"C:\Users\CJ ROHIT\Downloads\222222222222222.png"
+   
+6. Choose Unity install editor and specify the location
+  "C:\Users\CJ ROHIT\Downloads\333333333333333333.png" 
+
+
+8.  Add modules Microsoft Visual studio community 2022 ,documentation and continue
+9.  After unity hub editor and  Visual studio community 2022 installation proceeds
+   "C:\Users\CJ ROHIT\Downloads\44444444444444444.png"
+   
+   
+9.Now install shows like 
+
+"C:\Users\CJ ROHIT\Downloads\5555555555555555.png"
+
+10.Select projects and create new 2D or 3D project and verify all are working
+
+"C:\Users\CJ ROHIT\Downloads\66666666666666.png"
+### Result:
+Thus the unity installation was completed sucessfully.
